@@ -1,6 +1,6 @@
 # npmtest-animate.css
 
-#### test coverage for  [animate.css (v3.5.2)](http://daneden.me/animate)  [![npm package](https://img.shields.io/npm/v/npmtest-animate.css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-animate.css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-animate.css.svg)](https://travis-ci.org/npmtest/node-npmtest-animate.css)
+#### basic test coverage for  [animate.css (v3.5.2)](http://daneden.me/animate)  [![npm package](https://img.shields.io/npm/v/npmtest-animate.css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-animate.css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-animate.css.svg)](https://travis-ci.org/npmtest/node-npmtest-animate.css)
 
 #### *Just-add-water CSS animation*
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-animate.css/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-animate.css/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-animate.css/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-animate.css/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-animate.css/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-animate.css/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-animate.css/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-animate.css/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-animate.css/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-animate.css/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-animate.css/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-animate.css/build/coverage.html/index.html)
 
@@ -86,7 +86,8 @@
         "main": "./animate.css"
     },
     "style": "./animate.css",
-    "version": "3.5.2"
+    "version": "3.5.2",
+    "bin": {}
 }
 ```
 
